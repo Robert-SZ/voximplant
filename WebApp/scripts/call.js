@@ -1,6 +1,6 @@
 var ACCNAME = "modulbank",
 		APPNAME = "queue",
-		PHONE="979899598610";	
+		PHONE="979899590000";	
 
 var initialized = false,
 loggedIn = false,
